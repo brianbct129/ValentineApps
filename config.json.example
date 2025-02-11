@@ -1,0 +1,20 @@
+{
+    "recipientName": "RECIPIENT_NAME",
+    "confessionDate": "DD MONTH YYYY",
+    "whatsappNumber": "WHATSAPP_NUMBER",
+    "websiteUrl": "YOUR_WEBSITE_URL",
+    "fullMessage": "YOUR_FULL_MESSAGE",
+    "envelopeMessages": {
+        "greeting": "Hi RECIPIENT_NAME",
+        "birthday": "Happy Birthday On your XX Birthday",
+        "wish": "YOUR_WISH_MESSAGE",
+        "instruction": "Please click the envelope after DD MONTH to read my message",
+        "hashtag": "#ValentineDay"
+    },
+    "images": {
+        "avatar": {
+            "src": "path/to/your/image.jpg",
+            "alt": "image_description"
+        }
+    }
+} 
